@@ -40,6 +40,7 @@ Turning Raw Data into Real Decisions
             </a>
           </div>
           <button 
+            <a href="/cv/Fuzail-Ali-CV.pdf" download>Download CV</a>
             onClick={() => scrollToSection('projects')}
             className="px-8 py-4 bg-gradient-to-r from-yellow-500 to-yellow-400 text-black rounded-full hover:shadow-2xl hover:shadow-yellow-500/50 transition-all hover:scale-105 inline-flex items-center gap-2 group"
           >
