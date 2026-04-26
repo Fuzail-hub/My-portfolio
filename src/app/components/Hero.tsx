@@ -24,7 +24,9 @@ export function Hero() {
             </h1>
           </div>
           <p className="text-xl text-gray-300 leading-relaxed">
-            Hi, I'm Alex Martinez. I specialize in turning complex datasets into actionable business intelligence through advanced analytics and compelling visualizations.
+           Fuzail Ali
+Aspiring Data Analyst | BBA Student
+Turning Raw Data into Real Decisions
           </p>
           <div className="flex gap-4">
             <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="p-3 bg-gradient-to-br from-yellow-500 to-yellow-600 text-black rounded-full hover:scale-110 transition-transform shadow-lg shadow-yellow-500/20">
